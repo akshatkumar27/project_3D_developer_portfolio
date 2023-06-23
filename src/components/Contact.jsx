@@ -77,7 +77,7 @@ const Contact = () => {
 
         <form
           ref={formRef}
-          onSubmit={handleSubmit}
+          // onSubmit={handleSubmit}
           className='mt-12 flex flex-col gap-8'
         >
           <label className='flex flex-col'>
