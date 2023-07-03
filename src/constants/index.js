@@ -206,25 +206,7 @@ const projects = [
       },
     ],
     image: exploredgoa,
-    source_code_link: "https://github.com/",
-  },
-  {
-    name: "HooBank",
-    description:
-      "A single page website for displaying the features of a bank. Completely responsive for all devices. It is just the UI each section is component based",
-    tags: [
-      {
-        name: "react",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "Tailwind CSS",
-        color: "green-text-gradient",
-      },
-      
-    ],
-    image: jobit,
-    source_code_link: "https://github.com/akshatkumar27/Hoobank-UI",
+    source_code_link: "https://github.com/akshatkumar27/Logistics-Frontend",
   },
   {
     name: "Ecommers Website",
@@ -247,6 +229,25 @@ const projects = [
     image: tripguide,
     source_code_link: "https://ecommers-frontend.vercel.app/",
   },
+  {
+    name: "HooBank",
+    description:
+      "A single page website for displaying the features of a bank. Completely responsive for all devices. It is just the UI each section is component based",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Tailwind CSS",
+        color: "green-text-gradient",
+      },
+      
+    ],
+    image: jobit,
+    source_code_link: "https://github.com/akshatkumar27/Hoobank-UI",
+  },
+  
   
 ];
 
