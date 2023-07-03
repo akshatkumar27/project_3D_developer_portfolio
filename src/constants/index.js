@@ -227,48 +227,27 @@ const projects = [
     source_code_link: "https://github.com/akshatkumar27/Hoobank-UI",
   },
   {
-    name: "Winterfuel",
+    name: "Ecommers Website",
     description:
-      "Admin panel for managing the data in database and providing the visuals of present data.",
+      "A full stack ecommers website with complete functionality like flipkart and amazon.",
     tags: [
       {
-        name: "nextjs",
+        name: "MERN",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "Vercel",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "Render",
         color: "pink-text-gradient",
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://ecommers-frontend.vercel.app/",
   },
   
-  {
-    name: "Bohfy",
-    description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
-    tags: [
-      {
-        name: "nextjs",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "supabase",
-        color: "green-text-gradient",
-      },
-      {
-        name: "css",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: exploredgoa,
-    source_code_link: "https://github.com/",
-  },
 ];
 
 export { services, technologies, experiences, testimonials, projects };
