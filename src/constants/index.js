@@ -186,7 +186,7 @@ const projects = [
   {
     name: "Logistic Management",
     description:
-      "A React-based web app facilitating communication, order creation, and payment processing between a Manufacturer and a Transporter.",
+      "A React-based web app facilitating one on one chat, order creation, and payment processing between a Manufacturer and a Transporter.",
     tags: [
       {
         name: "reactjs",
@@ -229,7 +229,7 @@ const projects = [
   {
     name: "Ecommers Website",
     description:
-      "A full stack ecommers website with complete functionality like flipkart and amazon.",
+      "A full stack ecommers website with complete functionality like flipkart and amazon.Payment process is made using braintree payment gateway.",
     tags: [
       {
         name: "MERN",
